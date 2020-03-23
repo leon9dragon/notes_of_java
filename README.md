@@ -12,7 +12,7 @@ some notes of my java study
 <a href="01.java_notes\008.一维数组.md">008.一维数组</a>  
 <a href="01.java_notes\009.数组其它操作.md">009.数组其它操作</a>  
 <a href="01.java_notes\010.参数的值传递机制.md">010.参数的值传递机制</a>  
-<a href=""></a>  
+<a href="01.java_notes\011.数组工具类Arrays.md">011.数组工具类Arrays</a>  
 <a href=""></a>  
 <a href=""></a>  
 <a href=""></a>  
