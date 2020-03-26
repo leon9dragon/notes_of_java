@@ -19,7 +19,7 @@ some notes of my java study
 
 <a href="01.java_notes\012.面向过程和面向对象.md">012.面向过程和面向对象</a>  
 <a href="01.java_notes\013.对象和类的关系.md">013.对象和类的关系</a>  
-<a href=""></a>  
+<a href="01.java_notes\014.构造器.md">014.构造器</a>  
 <a href=""></a>  
 <a href=""></a>  
 <a href=""></a>  
