@@ -24,8 +24,8 @@ some notes of my java study
 <a href="01.java_notes\016.变量的作用域和生命周期.md">016.变量的作用域和生命周期</a>  
 <a href="01.java_notes\017.package关键字.md">017.package关键字</a>  
 <a href="01.java_notes\018.import关键字.md">018.import关键字</a>  
-<a href=""></a>  
-<a href=""></a>  
+<a href="01.java_notes\019.封装的概念.md">019.封装的概念.md</a>  
+<a href="01.java_notes\020.权限访问修饰符.md">020.权限访问修饰符</a>  
 <a href=""></a>  
 <a href=""></a>  
 <a href=""></a>  
