@@ -28,7 +28,7 @@ some notes of my java study
 <a href="01.java_notes\020.权限访问修饰符.md">020.权限访问修饰符</a>  
 <a href="01.java_notes\021.javabean规范.md">021.javabean规范</a>  
 <a href="01.java_notes\022.this关键字.md">022.this关键字</a>  
-<a href=""></a>  
+<a href="01.java_notes\023.继承和extends关键字.md">023.继承和extends关键字</a>  
 <a href=""></a>  
 <a href=""></a>  
 <a href=""></a>  
