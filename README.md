@@ -34,7 +34,7 @@ some notes of my java study
 <a href="01.java_notes\026.子类初始化过程.md">026.子类初始化过程</a>  
 <a href="01.java_notes\027.隐藏(遮蔽)现象.md">027.隐藏(遮蔽)现象</a>  
 <a href="01.java_notes\028.Object类和常用方法.md">028.Object类和常用方法</a>  
-<a href=""></a>  
+<a href="01.java_notes\029.多态的概念.md">029.多态的概念</a>  
 <a href=""></a>  
 <a href=""></a>  
 <a href=""></a>  
