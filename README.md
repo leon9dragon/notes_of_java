@@ -39,8 +39,8 @@ some notes of my java study
 <a href="01.java_notes\031.组合关系.md">031.组合关系</a>  
 <a href="01.java_notes\032.字段不存在多态.md">032.字段不存在多态</a>  
 <a href="01.java_notes\033.代码块.md">033.代码块</a>  
-<a href=""></a>  
-<a href=""></a>  
+<a href="01.java_notes\034.final修饰符.md">034.final修饰符</a>  
+<a href="01.java_notes\035.单例设计模式.md">035.单例设计模式</a>  
 <a href=""></a>  
 <a href=""></a>  
 <a href=""></a>  
