@@ -41,7 +41,7 @@ some notes of my java study
 <a href="01.java_notes\033.代码块.md">033.代码块</a>  
 <a href="01.java_notes\034.final修饰符.md">034.final修饰符</a>  
 <a href="01.java_notes\035.单例设计模式.md">035.单例设计模式</a>  
-<a href=""></a>  
+<a href="01.java_notes\036.工具类的设计.md">036.工具类的设计</a>  
 <a href=""></a>  
 <a href=""></a>  
 <a href=""></a>  
