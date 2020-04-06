@@ -42,8 +42,8 @@ some notes of my java study
 <a href="01.java_notes\034.final修饰符.md">034.final修饰符</a>  
 <a href="01.java_notes\035.单例设计模式.md">035.单例设计模式</a>  
 <a href="01.java_notes\036.工具类的设计.md">036.工具类的设计</a>  
-<a href=""></a>  
-<a href=""></a>  
+<a href="01.java_notes\037.包装类.md">037.包装类</a>  
+<a href="01.java_notes\038.包装类的常用操作和缓存设计.md">038.包装类的常用操作和缓存设计</a>  
 <a href=""></a>  
 <a href=""></a>  
 <a href=""></a>  
