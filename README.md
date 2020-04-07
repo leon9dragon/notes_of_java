@@ -3,8 +3,8 @@ some notes of my java study
 
 # :tea: 01. java 笔记 
 ## :bulb: 语言基础
-<a href="01.java_notes\001.前要知识.md">001.前要知识</a>  
-<a href="01.java_notes\002.常量和变量.md">002.常量和变量</a>  
+- <a href="01.java_notes\001.前要知识.md">001.前要知识</a>  
+- <a href="01.java_notes\002.常量和变量.md">002.常量和变量</a>  
 <a href="01.java_notes\003.数据类型.md">003.数据类型</a>  
 <a href="01.java_notes\004.运算符.md">004.运算符</a>  
 <a href="01.java_notes\005.流程语句.md">005.流程语句</a>  
