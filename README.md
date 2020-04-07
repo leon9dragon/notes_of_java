@@ -1,8 +1,8 @@
 # notes_of_java
 some notes of my java study
 
-# 01. java 笔记 
-## :bulb:语言基础
+# :tea: 01. java 笔记 
+## :bulb: 语言基础
 <a href="01.java_notes\001.前要知识.md">001.前要知识</a>  
 <a href="01.java_notes\002.常量和变量.md">002.常量和变量</a>  
 <a href="01.java_notes\003.数据类型.md">003.数据类型</a>  
@@ -15,7 +15,7 @@ some notes of my java study
 <a href="01.java_notes\010.参数的值传递机制.md">010.参数的值传递机制</a>  
 <a href="01.java_notes\011.数组工具类Arrays.md">011.数组工具类Arrays</a>   
 
-## :green_apple:面向对象
+## :green_apple: 面向对象
 
 <a href="01.java_notes\012.面向过程和面向对象.md">012.面向过程和面向对象</a>  
 <a href="01.java_notes\013.对象和类的关系.md">013.对象和类的关系</a>  
