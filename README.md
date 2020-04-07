@@ -45,7 +45,7 @@ some notes of my java study
 <a href="01.java_notes\037.包装类.md">037.包装类</a>  
 <a href="01.java_notes\038.包装类的常用操作和缓存设计.md">038.包装类的常用操作和缓存设计</a>  
 <a href="01.java_notes\039.包装类和基本类型的区别.md">039.包装类和基本类型的区别</a>  
-<a href="01.java_notes\040.抽象类和抽象方法.md">040.抽象类和抽象方法</a>  
+<a href="01.java_notes\040.抽象方法和抽象类.md">040.抽象方法和抽象类</a>  
 <a href=""></a>  
 <a href=""></a>  
 <a href=""></a>  
