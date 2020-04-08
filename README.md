@@ -1,5 +1,5 @@
 # :pencil: notes_of_java
-some notes of my java study
+一些 java 笔记, 仅供参考
 
 # :tea: 01. java 笔记 
 ## :bulb: 语言基础
