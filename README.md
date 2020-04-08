@@ -1,4 +1,4 @@
-# :pencil: notes_of_java
+# :pencil: java 笔记
 一些 java 笔记, 仅供参考
 
 # :tea: 01. java 笔记 
