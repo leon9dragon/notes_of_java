@@ -53,10 +53,10 @@
 - <a href="01.java_notes\045.面向接口编程思想.md">045.面向接口编程思想</a>  
 - <a href="01.java_notes\046.内部类.md">046.内部类</a>  
 - <a href="01.java_notes\047.实例内部类和静态内部类.md">047.实例内部类和静态内部类</a>  
-- <a href=""></a>  
-- <a href=""></a>  
-- <a href=""></a>  
-- <a href=""></a>  
+- <a href="01.java_notes\048.局部内部类.md">048.局部内部类</a>  
+- <a href="01.java_notes\049.匿名内部类.md">049.匿名内部类</a>  
+- <a href="01.java_notes\050.枚举类型.md">050.枚举类型</a>  
+- <a href="01.java_notes\051.枚举的操作细节.md">051.枚举的操作细节</a>  
 - <a href=""></a>  
 - <a href=""></a>  
 - <a href=""></a>  
