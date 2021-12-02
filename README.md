@@ -1,5 +1,5 @@
 # :pencil: java 笔记
-一些 java 笔记, 仅供参考
+一些 java 笔记, 仅供参考, 目录不完全, 请直接点开 01.java 文件夹查看
 
 # :tea: 01. java 笔记 
 ## :bulb: 语言基础
